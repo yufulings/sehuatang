@@ -15,7 +15,7 @@ on:
 
 env:
   REGISTRY: docker.io
-  IMAGE_NAME: cxsz16888/sehuatang
+  IMAGE_NAME: yufulings/sehuatang
 
 jobs:
   # 安全扫描和代码检查
